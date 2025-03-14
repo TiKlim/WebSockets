@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6ED483-9A4A-4F8C-835E-F7318AC76125}|AvaloniaApplication2\\AvaloniaApplication2.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication2\\avaloniaapplication2\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{6A6ED483-9A4A-4F8C-835E-F7318AC76125}|AvaloniaApplication2\\AvaloniaApplication2.csproj|solutionrelative:avaloniaapplication2\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6ED483-9A4A-4F8C-835E-F7318AC76125}|AvaloniaApplication2\\AvaloniaApplication2.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication2\\avaloniaapplication2\\data\\clientwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6ED483-9A4A-4F8C-835E-F7318AC76125}|AvaloniaApplication2\\AvaloniaApplication2.csproj|solutionrelative:avaloniaapplication2\\data\\clientwebsockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6ED483-9A4A-4F8C-835E-F7318AC76125}|AvaloniaApplication2\\AvaloniaApplication2.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication2\\avaloniaapplication2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6ED483-9A4A-4F8C-835E-F7318AC76125}|AvaloniaApplication2\\AvaloniaApplication2.csproj|solutionrelative:avaloniaapplication2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientWebSocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication2\\AvaloniaApplication2\\Data\\ClientWebSocketHandler.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication2\\Data\\ClientWebSocketHandler.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication2\\AvaloniaApplication2\\Data\\ClientWebSocketHandler.cs",
+              "RelativeToolTip": "AvaloniaApplication2\\Data\\ClientWebSocketHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:06:34.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication2\\AvaloniaApplication2\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication2\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication2\\AvaloniaApplication2\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "AvaloniaApplication2\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:15:36.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication2\\AvaloniaApplication2\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication2\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication2\\AvaloniaApplication2\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "AvaloniaApplication2\\Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T10:15:38.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
