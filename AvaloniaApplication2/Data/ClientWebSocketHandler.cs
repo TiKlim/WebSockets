@@ -14,7 +14,7 @@ namespace AvaloniaApplication2.Data
         public delegate void ClientWebSocketReceiveMessage(string message);
         public event ClientWebSocketReceiveMessage? OnReceiveMessage;
 
-        private readonly Uri uri = new Uri("ws://217.114.2.102:8088/reviews");
+        private readonly Uri uri = new Uri("ws://217.114.2.102:8088/reviews"); //("ws://localhost:5143/chat");
         private ClientWebSocket webSocket = new ();
 
         public async Task SendMessages(string message)
